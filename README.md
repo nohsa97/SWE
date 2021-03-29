@@ -3,6 +3,7 @@
 
 ### Project Members
 DEPT | NAME
+---| ---
 CS | [윤윤호](https://github.com/yun-yunho "@yun-yunho")
 CS | 노홍석
 CS | 이현성
