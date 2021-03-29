@@ -11,4 +11,4 @@ CS | 정한수
 CS | 최종현
 
 ### Collaboration tool
-Microsoft Teams
+- Microsoft Teams
