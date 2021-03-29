@@ -7,7 +7,7 @@ DEPT | NAME
 CS | [윤윤호](https://github.com/yun-yunho "@yun-yunho")
 CS | 노홍석
 CS | 이현성
-CS | 정한수
+CS | [정한수](https://github.com/8471919 "@Jeong-hansu")
 CS | 최종현
 
 ### Collaboration tool
